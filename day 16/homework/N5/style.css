@@ -1,0 +1,115 @@
+header{
+    background-color: #464646;
+    color: hsl(0, 0%, 90%);
+    height: 50px;
+}
+.header-text{
+    padding-left: 30px;
+}
+input{
+    border: solid;
+    border-width: 1px;
+    border-color: hsl(0, 0%, 80%);
+}
+.div1{
+    background-color: hsl(0, 0%, 95%);
+    margin-left: 30px;
+    border: solid;
+    border-width: 1px;
+    border-color: hsl(0, 0%, 80%);
+    padding-left: 8px;
+    padding-top: 10px;
+    width: 500px;
+    height: 270px;
+}
+.div2{
+        background-color: hsl(0, 0%, 95%);
+        margin-left: 30px;
+        border: solid;
+        border-width: 1px;
+        border-color: hsl(0, 0%, 80%);
+        padding-left: 8px;
+        padding-top: 10px;
+        width: 500px;
+        height: 350px;
+}
+.div3{
+    background-color: hsl(0, 0%, 95%);
+    margin-left: 30px;
+    border: solid;
+    border-width: 1px;
+    border-color: hsl(0, 0%, 80%);
+    padding-left: 8px;
+    padding-top: 10px;
+    width: 500px;
+    height: 150px;
+}
+.div4{
+    background-color: hsl(0, 0%, 95%);
+    margin-left: 30px;
+    border: solid;
+    border-width: 1px;
+    border-color: hsl(0, 0%, 80%);
+    padding-left: 8px;
+    padding-top: 10px;
+    width: 500px;
+    height: 270px;
+}
+.small-div{
+    background-color: white;
+    height: 100px;
+    width: 400px;
+    border: solid;
+    border-width: 1px;
+    border-color: hsl(0, 0%, 80%);
+    padding-top: 7px;
+    padding-left: 7px;
+}
+.small-div2{
+    background-color: hsl(0, 0%, 95%);
+    height: 220px;
+    width: 485px;
+    border: solid;
+    border-width: 1px;
+    border-color: hsl(0, 0%, 80%);
+    padding-top: 7px;
+    padding-left: 1px;
+    font-size: 20px;
+    padding-bottom: 5px;
+}
+.smalldiv2whitepart{
+    background-color: white;
+    height: 35px;
+    padding-top: 7px;
+}
+
+.text{
+    padding-left: 7px;
+    padding-top: 10px;
+}
+.the-text{
+    height: 25px;
+    width: 400px;
+}
+.dropdown{
+    height: 30px;
+    width: 350px;
+    border-color: hsl(0, 0%, 80%);
+}
+button{
+    border: none;
+}
+.button1{
+    height: 40px;
+    width: 130px;
+    color: white;
+    background-color: #236192;
+    margin-right: 15px;
+}
+.button2{
+    height: 40px;
+    width: 130px;
+    color: white;
+    background-color: #A2A2A2;
+    margin-right: 15px;
+}

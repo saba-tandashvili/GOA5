@@ -1,0 +1,28 @@
+header{
+    margin-bottom: auto;
+}
+body{
+    font-family: courier new,monospace;
+}
+.the-x{
+    float: right
+}
+.mid{
+    text-align: center;
+}
+.boxes{
+    background-color: white;
+    height: 30px;
+    width: 70px;
+    font-size: large;
+    font-family: courier new,monospace;
+    border-width: 1px;
+}
+.boxes2{
+    background-color: white;
+    height: 40px;
+    width: 103px;
+    font-size: Medium;
+    font-family: courier new,monospace;
+    border-width: 1px;
+}
