@@ -2,6 +2,7 @@ header{
     background-color: #464646;
     color: hsl(0, 0%, 90%);
     height: 50px;
+    width: 1120px;
 }
 .header-text{
     padding-left: 30px;
@@ -43,6 +44,9 @@ input{
     padding-top: 10px;
     width: 500px;
     height: 150px;
+    position: absolute;
+    right: 900px;
+    top: 110px; 
 }
 .div4{
     background-color: hsl(0, 0%, 95%);
@@ -53,7 +57,10 @@ input{
     padding-left: 8px;
     padding-top: 10px;
     width: 500px;
-    height: 270px;
+    height: 400px;
+    position: absolute;
+    right: 900px;
+    top: 350px; 
 }
 .small-div{
     background-color: white;
@@ -67,7 +74,7 @@ input{
 }
 .small-div2{
     background-color: hsl(0, 0%, 95%);
-    height: 220px;
+    height: 350px;
     width: 485px;
     border: solid;
     border-width: 1px;
@@ -112,4 +119,12 @@ button{
     color: white;
     background-color: #A2A2A2;
     margin-right: 15px;
+}
+#button1{
+    position: absolute;
+    right: 170px;
+}
+#button2{
+    position: absolute;
+    right: 10px;
 }
